@@ -5,6 +5,6 @@ loki gets your logs into grafana.
 2) `docker-compose up`
 3) login @ http://locahost:3000 `admin` `admin`
 4) add data source: http://loki:3100
-5) click 'explore'git pull
-^) !!!? 
+5) click 'explore'
+6) !!!? 
 7) profit
