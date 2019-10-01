@@ -1,5 +1,6 @@
 loki gets your logs into grafana.
 
+`git clone` this and:
 
 1) fetch some tomcat logs from wherever you have them and add the files into `tomcat/`
 2) `docker-compose up`
